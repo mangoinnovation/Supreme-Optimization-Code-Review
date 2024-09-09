@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: 99 Bottles of Beer Shortcode
-Plugin URI: http://example.com/plugins/99-bottles-of-beer
+Plugin URI: https://mangoinnovation.com/plugins/99-bottles-of-beer
 Description: Adds a shortcode to display the lyrics of "99 Bottles of Beer on the Wall"
 Version: 1.0
 Author: Derrick Boddie
